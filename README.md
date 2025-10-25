@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm a aspiring Software Engineer with passion on Front-End Web Development and have interest on Web Designing, QA/Software Testing and IT Tech Support</p>
+<p align="center">I'm a aspiring Software Engineer with passion on Front-End Web Development, Web Designing, and have interest on QA/Software Testing and IT Tech Support</p>
 
 ###
 
